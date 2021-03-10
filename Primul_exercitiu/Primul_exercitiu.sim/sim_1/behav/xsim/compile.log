@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/Primul_exercitiu/Primul_exercitiu.srcs/sources_1/new/halfAdder_v2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfAdder_v2
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/Primul_exercitiu/Primul_exercitiu.srcs/sim_1/new/halfAdder_sim_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module halfAdder_sim_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/Primul_exercitiu/Primul_exercitiu.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
