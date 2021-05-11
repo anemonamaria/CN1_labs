@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/carry_look_ahead.srcs/sources_1/new/carry_look_ahead.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module carry_look_ahead
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/carry_look_ahead.srcs/sources_1/new/cla_16bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cla_16bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/carry_look_ahead.srcs/sim_1/new/cla16_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cla16_sim
