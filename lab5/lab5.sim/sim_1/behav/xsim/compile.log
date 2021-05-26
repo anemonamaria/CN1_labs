@@ -1,0 +1,15 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/lab5/lab5.srcs/sources_1/new/bistabilD.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bistabilD
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'rez' is not allowed [E:/acs_cn1/lab5/lab5.srcs/sources_1/new/bistabilD.v:29]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/lab5/lab5.srcs/sources_1/new/diferenta.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module diferenta
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/lab5/lab5.srcs/sources_1/new/inmultire.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inmultire
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/lab5/lab5.srcs/sources_1/new/pipeline.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeline
+INFO: [VRFC 10-2458] undeclared symbol dxe_bd, assumed default net type wire [E:/acs_cn1/lab5/lab5.srcs/sources_1/new/pipeline.v:50]
+INFO: [VRFC 10-2458] undeclared symbol rez, assumed default net type wire [E:/acs_cn1/lab5/lab5.srcs/sources_1/new/pipeline.v:61]
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/lab5/lab5.srcs/sources_1/new/suma.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module suma
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/acs_cn1/lab5/lab5.srcs/sim_1/new/pipeline_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pipeline_sim
